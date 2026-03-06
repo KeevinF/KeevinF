@@ -9,8 +9,7 @@
 ![Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=keevinf&show_icons=true&theme=tokyonight&count_private=true)
 
 <p align="center">
-  Sua linha centralizada aqui
-
+ 
 ## Tecnologias que eu uso no meu dia
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="center" alt="Computador iuriCode">
