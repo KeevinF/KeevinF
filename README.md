@@ -6,17 +6,16 @@
 
 
 
-![Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=keevinf&show_icons=true&theme=tokyonight&count_private=true)
+
+
+<p> <p align="center">Minha jornada no mundo do código começou com a tríade essencial do Front-end: HTML, CSS e JavaScript. Hoje, foco minha energia em dominar o React Native, explorando o potencial de criar apps que impactam o dia a dia das pessoas. Acredito que o aprendizado contínuo é a chave para o sucesso na tecnologia e estou documentando cada passo dessa evolução nos meus projetos.
+ <hr></p>
+</p>
 
 
  
 ## Tecnologias que eu uso no meu dia
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="center" alt="Computador iuriCode">
-
-
-
- 
 
 <div align="center">
 <div style="display: inline_block">
