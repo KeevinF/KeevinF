@@ -12,6 +12,16 @@
  <hr></p>
 </p>
 
+<p> Estudante de Engenharia de Software focado em soluções Web.
+
+Em vez de apenas seguir padrões, analiso riscos e oportunidades em cada projeto. Minha meta é entregar código que resolva problemas reais de forma direta.
+
+🔭 Projetos Atuais: Desenvolvendo um Dashboard para Personal Trainers, onde sou responsável por toda a interface e lógica de front-end, consumindo dados processados via backend externo.
+
+🤝 Trabalho em Equipe: Experiência em fluxos de trabalho colaborativos, mantendo a consistência de código em projetos compartilhados via Git.
+
+⚡ Destaque: Desenvolvi uma aplicação de previsão do tempo utilizando a API do OpenWeather, focando em usabilidade e performance.</p>
+
 
  
 ## Tecnologias que eu uso no meu dia
